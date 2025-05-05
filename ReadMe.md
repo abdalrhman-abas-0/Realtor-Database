@@ -71,10 +71,6 @@ realtor-database/
 graph LR  
 A[Raw JSONs] --> B(Pandas Cleaning) --> C(PostgreSQL Transformations) --> D[Output CSVs] --> E[(PostgreSQL DB)]  
 ```  
-
----
-
-## 💡 **Improvement Suggestions**  
-1. Add a `requirements.txt` for Python dependencies.  
-2. Include a sample query in the README (e.g., "Find average home prices by neighborhood").  
-3. Add a `data_dictionary.md` explaining column meanings in CSVs.  
+## Prerequisites
+- Python 3.x
+- Pandas (`pip install pandas`)
