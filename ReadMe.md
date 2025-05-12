@@ -4,7 +4,7 @@
 
 ## 📌 **Overview**  
 This project demonstrates an end-to-end pipeline to:  
-1. Scrape real estate data from web sources (JSON) using **[SCRAPED AS JSON Project](https://github.com/yourusername/scraped-as-json)**.  
+1. Scrape real estate data from web sources (JSON) using the **[SCRAPED AS JSON Project](https://github.com/yourusername/scraped-as-json)**.  
 2. Cleanse and transform raw data using **Python (Pandas)** and **PostgreSQL**.  
 3. Design an optimized database schema with rigorous testing.  
 
